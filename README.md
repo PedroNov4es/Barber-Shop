@@ -10,13 +10,17 @@
 ---
 
 ## 📂 Estrutura do Projeto
-/assets
-### Imagens
-/partials
-  colors.scss
-  header.scss
-  layout.scss
-index.html
-style.css
-style.css.map
-style.scss
+
+```bash
+.
+├── assets/
+│   └── imagens/        # Arquivos de imagem do projeto
+├── partials/           # Arquivos SCSS modulares
+│   ├── colors.scss     # Variáveis de cores
+│   ├── header.scss     # Estilo do header
+│   └── layout.scss     # Layout geral
+├── index.html          # Página principal
+├── style.scss          # Arquivo SCSS principal
+├── style.css           # CSS compilado
+└── style.css.map       # Source map
+```
