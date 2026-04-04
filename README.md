@@ -4,9 +4,9 @@
  Este projeto é uma landing page com tema de barbearia feito com o objetivo de aprender e desenvolver técnicas e utilizar funcionalidades de SASS
 ---
 ## 🛠 Tecnologias
-** HTML
-** CSS
-** SCSS
+- ** HTML
+- ** CSS
+- ** SCSS
 ---
 
 ## 📂 Estrutura do Projeto
